@@ -2,19 +2,19 @@
 
 ---
 
-[Explore Bike Trip Data](/sample_page)
+[Explore Bike Trip Data](https://github.com/pr0grammm/explore_bikeshare_data)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Analyse Movie Data](/pdf/sample_presentation.pdf)
+[Analyse Movie Data](https://github.com/pr0grammm/analyse_movie_data/blob/master/investigate-a-dataset-template.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Compute Soccer Statistics](http://example.com/)
+[Visualise Soccer Player Statistics](https://public.tableau.com/profile/reshma3573#!/vizhome/socceranalysisbypositionfinal/Dashboard2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Visualise Bob Ross's Commentary](http://example.com/)
+[Visualise Bob Ross's Commentary](https://github.com/pr0grammm/king_of_asmr)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
