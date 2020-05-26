@@ -1,9 +1,13 @@
 title: Reshma R # your name (or website title) here
 logo: "/images/myAvatar (1).svg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi! My name is Reshma.
+  <br>
+  Hi! My name is Reshma.<br>
   I am a software engineer with a passion to learn, apply and enhance my skills by being hands-on with technology.
+  <br><br>
   Welcome to my portfolio page. Here, you can check out some data analytics projects I have worked on.
+  <br><br>
+  Please feel free to connect and contact me on linkedIn if you have any interesting opportunities.
   <br><br>
   <a href="https://www.linkedin.com/in/reshma-ramaprasad/">View My LinkedIn Profile</a> 
   
